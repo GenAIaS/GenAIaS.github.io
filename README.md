@@ -1,1 +1,1 @@
-# nlbse2024.github.io
+# GenAIaS.github.io
